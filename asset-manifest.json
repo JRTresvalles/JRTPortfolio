@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/JRTPortfolio/static/css/main.a0b3a14d.css",
+    "main.js": "/JRTPortfolio/static/js/main.3406224e.js",
+    "static/media/KapitalDao.pdf": "/JRTPortfolio/static/media/KapitalDao.54a69eb374874354cda6.pdf",
+    "static/media/Project.png": "/JRTPortfolio/static/media/Project.7b48d2758b67de7cf219.png",
+    "static/media/Circlex.png": "/JRTPortfolio/static/media/Circlex.807028da36add3d38c4f.png",
+    "static/media/Simple-login.png": "/JRTPortfolio/static/media/Simple-login.c013d1b4e5061932c7c7.png",
+    "static/media/KapitalDao.png": "/JRTPortfolio/static/media/KapitalDao.2ee0e7e54ab61e7674e5.png",
+    "static/media/about.png": "/JRTPortfolio/static/media/about.fb4cb7168e32b1e83422.png",
+    "static/media/Yellevate.pdf": "/JRTPortfolio/static/media/Yellevate.a6d7b52ee4810f7ca8b9.pdf",
+    "static/media/Yellevate.png": "/JRTPortfolio/static/media/Yellevate.8e32d6513e256bee7557.png",
+    "static/media/Jobhives.png": "/JRTPortfolio/static/media/Jobhives.fb57243f3ce453ea81e6.png",
+    "static/media/Layout-blux.png": "/JRTPortfolio/static/media/Layout-blux.e0e53c6bc857d5e16271.png",
+    "static/media/Airbots.png": "/JRTPortfolio/static/media/Airbots.2e62fb90db3a8d9b0255.png",
+    "static/media/Blux.png": "/JRTPortfolio/static/media/Blux.06d5383f32ea1ce8797b.png",
+    "static/media/refocus.pdf": "/JRTPortfolio/static/media/refocus.fea84e54bbc10e6560a7.pdf",
+    "static/media/JohnRicoTresvalles.pdf": "/JRTPortfolio/static/media/JohnRicoTresvalles.7ac891287eade9c6d768.pdf",
+    "static/media/home.png": "/JRTPortfolio/static/media/home.7784fbfd24f6e2fa58b0.png",
+    "static/media/certification.png": "/JRTPortfolio/static/media/certification.d425a5502889923ebb65.png",
+    "static/media/UX.png": "/JRTPortfolio/static/media/UX.3f42e1518a796bdd0d74.png",
+    "index.html": "/JRTPortfolio/index.html",
+    "main.a0b3a14d.css.map": "/JRTPortfolio/static/css/main.a0b3a14d.css.map",
+    "main.3406224e.js.map": "/JRTPortfolio/static/js/main.3406224e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0b3a14d.css",
+    "static/js/main.3406224e.js"
+  ]
+}
