@@ -1,6 +1,6 @@
 import React from 'react'
 import AboutImage from '../../assets/img/about.png'
-import Pdf from '../../assets/pdf/JohnRicoTresvalles.pdf'
+import Pdf from '../../assets/pdf/JRTResume.pdf'
 
 function About() {
   return (

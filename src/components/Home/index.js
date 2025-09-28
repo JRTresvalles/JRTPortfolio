@@ -28,7 +28,7 @@ function Home() {
 
                     <div className="home__data">
                         <h1 className="home__title">Hi, this is John Rico Tresvalles</h1>
-                        <h3 className="home__subtitle">Frontend developer</h3>
+                        <h3 className="home__subtitle">Frontend developer & Graphic Designer</h3>
                         <p className="home__description">What's up, I'm John Rico Tresvalles.
                              I'm a cat person, coffee lover, and web developer. 
                             I'm passionate about learning more about coding and exploring 
