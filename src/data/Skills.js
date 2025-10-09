@@ -13,11 +13,19 @@ const SkillsData = [
         },
         {
           name: 'JavaScript',
-          proficiency: 'Intermediate'
+          proficiency: 'Experienced'
         },
         {
           name: 'React',
           proficiency: 'Beginner'
+        },
+        {
+          name: 'Wordpress',
+          proficiency: 'Experienced'
+        },
+        {
+          name: 'Shopify',
+          proficiency: 'Experienced'
         }
       ]
     },
@@ -27,7 +35,7 @@ const SkillsData = [
       level: [
         {
           name: 'PHP',
-          proficiency: 'Intermediate'
+          proficiency: 'Experienced'
         },
         {
           name: 'Laravel',
@@ -41,7 +49,7 @@ const SkillsData = [
     },
     {
       id: 3,
-      type: 'Graphic Designer',
+      type: 'Graphic Design',
       level: [
         {
           name: 'Figma',
@@ -54,11 +62,33 @@ const SkillsData = [
         {
           name: 'Canva',
           proficiency: 'Expert'
-        }
+        },
+        {
+          name: 'Email Template Design',
+          proficiency: 'Experienced'
+        },
+        {
+          name: 'Amazon A+ Content',
+          proficiency: 'Experienced'
+        },
       ]
     },
     {
       id: 4,
+      type: 'Video Editing',
+      level: [
+        {
+          name: 'Capcut',
+          proficiency: 'Expert'
+        },
+        {
+          name: 'Animation',
+          proficiency: 'Basic'
+        }
+      ]
+    },
+    {
+      id: 5,
       type: 'Others',
       level: [
         {

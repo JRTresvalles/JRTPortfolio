@@ -46,6 +46,18 @@ function Services() {
         "Data visualization",
       ],
     },
+    {
+      id: 5,
+      title: "Video Editing",
+      icon: "bx bx-video services__icon",
+      description: [
+        "Editing videos using CapCut with clean cuts and smooth transitions.",
+        "Adding simple animations, text effects, and music to enhance videos.",
+        "Creating short-form content for social media platforms like TikTok or Instagram.",
+        "Adjusting video speed, filters, and color to improve overall visual quality.",
+        "Exporting high-quality videos optimized for different platforms.",
+      ],
+    },
   ]);
 
   useEffect(() => {

@@ -12,6 +12,13 @@ import Yellevate from '../../assets/img/Yellevate.png'
 import YellevatePdf from '../../assets/pdf/Yellevate.pdf'
 import KapitalDao from '../../assets/pdf/KapitalDao.pdf'
 import KapitalDaox from '../../assets/img/KapitalDao.png'
+import UrbanThreads from '../../assets/pdf/UrbanThreads.pdf'
+import UrbanThreadsCover from '../../assets/img/UrbanThreadsCover.png'
+import Bloomy from '../../assets/pdf/Bloomy.pdf'
+import BloomyCover from '../../assets/img/BloomyCover.png'
+import Lume from '../../assets/pdf/Lume.pdf'
+import LumeCover from '../../assets/img/LumeCover.png'
+
 import mixitup from 'mixitup';
 
 function Portfolio() {
@@ -49,17 +56,17 @@ function Portfolio() {
           <span className={`work__item ${activeFilter === "all" ? "active-work" : ""}`} data-filter="all" onClick={handleFilterClick}>
             All
           </span>
-          <span className={`work__item ${activeFilter === ".web" ? "active-work" : ""}`} data-filter=".web" onClick={handleFilterClick}>
-            Web
+            <span className={`work__item ${activeFilter === ".design" ? "active-work" : ""}`} data-filter=".design" onClick={handleFilterClick}>
+            Website Design
           </span>
-          <span className={`work__item ${activeFilter === ".design" ? "active-work" : ""}`} data-filter=".design" onClick={handleFilterClick}>
-            Design
+          <span className={`work__item ${activeFilter === ".web" ? "active-work" : ""}`} data-filter=".web" onClick={handleFilterClick}>
+            Website
           </span>
           <span className={`work__item ${activeFilter === ".certification" ? "active-work" : ""}`} data-filter=".certification" onClick={handleFilterClick}>
             Certification
           </span>
           <span className={`work__item ${activeFilter === ".others" ? "active-work" : ""}`} data-filter=".others" onClick={handleFilterClick}>
-            Others
+            Social Media Graphics
           </span>
         </div>
         <div className="work__container container grid" ref={containerRef}>
@@ -97,6 +104,36 @@ function Portfolio() {
             <h3 className="work__title">Simple - "Login & Signup"</h3>
 
             <a href="https://blukissgithub.github.io/Login/" target={'_blank'} rel="noopener noreferrer"  className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+
+          <div className="work__card mix design">
+            <img src={UrbanThreadsCover} alt="" className="work__img" />
+
+            <h3 className="work__title">Website Design - Urban Threads</h3>
+
+            <a href={UrbanThreads} target={'_blank'} rel="noopener noreferrer"  className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+
+          <div className="work__card mix design">
+            <img src={BloomyCover} alt="" className="work__img" />
+
+            <h3 className="work__title">Website Design - Bloomy</h3>
+
+            <a href={Bloomy} target={'_blank'} rel="noopener noreferrer"  className="work__button">
+              View<i className='bx bx-caret-right work__icon'></i>
+            </a>
+          </div>
+
+          <div className="work__card mix design">
+            <img src={LumeCover} alt="" className="work__img" />
+
+            <h3 className="work__title">Website Design - Lumé</h3>
+
+            <a href={Lume} target={'_blank'} rel="noopener noreferrer"  className="work__button">
               View<i className='bx bx-caret-right work__icon'></i>
             </a>
           </div>
