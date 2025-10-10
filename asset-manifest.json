@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/JRTPortfolio/static/css/main.4f6aae4a.css",
-    "main.js": "/JRTPortfolio/static/js/main.5f3b65f5.js",
+    "main.js": "/JRTPortfolio/static/js/main.b115f2d5.js",
     "static/media/KapitalDao.pdf": "/JRTPortfolio/static/media/KapitalDao.54a69eb374874354cda6.pdf",
     "static/media/Lume.pdf": "/JRTPortfolio/static/media/Lume.74b289d3d60a9e9e3b3a.pdf",
-    "static/media/UrbanThreads.pdf": "/JRTPortfolio/static/media/UrbanThreads.f8006d433664147232a8.pdf",
+    "static/media/UrbanThreads.pdf": "/JRTPortfolio/static/media/UrbanThreads.71a6d7d408c0ee75c0a6.pdf",
     "static/media/Project.png": "/JRTPortfolio/static/media/Project.7b48d2758b67de7cf219.png",
     "static/media/UrbanThreadsCover.png": "/JRTPortfolio/static/media/UrbanThreadsCover.80f9f49d716c4ab1109c.png",
     "static/media/Circlex.png": "/JRTPortfolio/static/media/Circlex.807028da36add3d38c4f.png",
@@ -27,10 +27,10 @@
     "static/media/UX.png": "/JRTPortfolio/static/media/UX.3f42e1518a796bdd0d74.png",
     "index.html": "/JRTPortfolio/index.html",
     "main.4f6aae4a.css.map": "/JRTPortfolio/static/css/main.4f6aae4a.css.map",
-    "main.5f3b65f5.js.map": "/JRTPortfolio/static/js/main.5f3b65f5.js.map"
+    "main.b115f2d5.js.map": "/JRTPortfolio/static/js/main.b115f2d5.js.map"
   },
   "entrypoints": [
     "static/css/main.4f6aae4a.css",
-    "static/js/main.5f3b65f5.js"
+    "static/js/main.b115f2d5.js"
   ]
 }
