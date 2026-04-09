@@ -9,10 +9,10 @@ function Contact() {
 
     emailjs
       .sendForm(
-        "service_c7yit19",
-        "template_gc9am14",
+        process.env.REACT_APP_EMAILJS_SERVICE_ID,
+        process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
         form.current,
-        "NVKL_UBizPpMKwiU1"
+        process.env.REACT_APP_EMAILJS_PUBLIC_KEY
       )
       .then(
         (result) => {
